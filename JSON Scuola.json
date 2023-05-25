@@ -1,0 +1,34 @@
+{
+    "Scuola":[
+        {
+            "NomeScuola":"ITIS",
+            "Professori":[
+                {
+                    "NomeProf":"Giovanni",
+                    "CognomeProf":"Rossi",
+                    "Materia":"Informatica"
+                },
+                {
+                    "NomeProf":"Roberto",
+                    "CognomeProf":"Russo",
+                    "Materia":"Italiano"
+                }
+            ],
+
+            "Studenti":[
+                {
+                    "NomeStudente":"Andrea",
+                    "CognomeStudente":"Demedici",
+                    "Classe":5,
+                    "Sezione":"B"
+                },
+                {
+                    "NomeStudente":"Marco",
+                    "CognomeStudente":"Polo",
+                    "Classe":4,
+                    "Sezione":"C"
+                }
+            ]
+        }
+    ]
+}

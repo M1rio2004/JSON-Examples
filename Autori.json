@@ -1,0 +1,50 @@
+{
+    "Books":[
+        {
+            "Autore1":{
+                "Nome":"Marco",
+                "Cognome":"Polo",
+                "DataDiNascita":"22/1/1992",
+                "Libri":
+                [
+                    {
+                        {
+                            "Titolo":"Gioco",
+                            "IDLibro":"1234"
+                        },
+                        {
+                            "Titolo":"Esser forti",
+                            "IDLibro":"4321"
+                        }
+                    }
+                ]
+            },
+            "Autore2":{
+                "Nome":"Mario",
+                "Cognome":"Rossi",
+                "DataDiNascita":"12/5/2000",
+                "Libri":[
+                    {
+                        "Libro":{
+                            "Titolo":"Come stare in tutti i libri di testo",
+                            "IDLibro":"666"
+                        }
+                    }
+                ]
+            },
+            "Autore3":{
+                "Nome":"Babbo",
+                "Cognome":"Natale",
+                "DataDiNascita":"5/2/1700",
+                "Libri":[
+                    {
+                        "Libro":{
+                            "Titolo":"Natale",
+                            "IDLibro":"3333"
+                        }
+                    }
+                ]
+            }
+        }
+     ]
+}

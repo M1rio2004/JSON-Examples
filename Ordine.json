@@ -1,0 +1,20 @@
+{
+    "Books":[
+        {
+            "Ordine":{
+                "ID":"1",
+                "Data":"01/01/2023",
+                "Prezzo":30,
+                "Quantità":10
+            }
+        },
+        {
+            "Ordine":{
+                "ID":"2",
+                "Data":"01/01/2023",
+                "Prezzo":30,
+                "Quantità":10
+            }
+        }
+     ]
+}
